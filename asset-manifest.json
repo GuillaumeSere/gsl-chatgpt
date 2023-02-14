@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gsl-chatgpt/static/css/main.60c813e0.css",
+    "main.js": "/gsl-chatgpt/static/js/main.94861e23.js",
+    "index.html": "/gsl-chatgpt/index.html",
+    "main.60c813e0.css.map": "/gsl-chatgpt/static/css/main.60c813e0.css.map",
+    "main.94861e23.js.map": "/gsl-chatgpt/static/js/main.94861e23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60c813e0.css",
+    "static/js/main.94861e23.js"
+  ]
+}
